@@ -1,0 +1,13 @@
+body.main{
+	background-color: #F32;
+}
+
+.burgerimg {
+	float: none;
+	margin: 0 auto;
+	height: 175px;
+}
+
+.burgerlist {
+	padding: 10px;
+}
